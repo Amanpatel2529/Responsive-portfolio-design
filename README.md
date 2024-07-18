@@ -1,7 +1,7 @@
 # Hi, I'm Aman! 👋 
 
 # Project Title
-My Responsive Portfolio Website
+My Baisc Responsive Portfolio Website 
 
 This project showcases my skills and experience in web development by creating a personal portfolio website.
 
