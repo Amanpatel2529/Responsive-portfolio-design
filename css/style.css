@@ -526,36 +526,69 @@ span {
 }
 
 .skills-column:nth-child(1) .skills-content .progress:nth-child(1) .bar span {
-    width: 90%;
+    width: 90%;   
+    /* html */
 }
 
 .skills-column:nth-child(1) .skills-content .progress:nth-child(2) .bar span {
     width: 80%;
+    /* css */
 }
 
 .skills-column:nth-child(1) .skills-content .progress:nth-child(3) .bar span {
     width: 65%;
+    /* js */
 }
 
 .skills-column:nth-child(1) .skills-content .progress:nth-child(4) .bar span {
     width: 60%;
+    /* ts */
+}
+
+.skills-column:nth-child(1) .skills-content .progress:nth-child(5) .bar span {
+    width: 60%;
+    /* java */
+}
+
+.skills-column:nth-child(1) .skills-content .progress:nth-child(6) .bar span {
+    width: 60%;
+    /* angular */
+}
+
+.skills-column:nth-child(1) .skills-content .progress:nth-child(7) .bar span {
+    width: 25%;
+    /* react  spring boot*/
+}
+
+.skills-column:nth-child(1) .skills-content .progress:nth-child(8) .bar span {
+    width: 25%;
+    /* spring boot*/
 }
 
 
 .skills-column:nth-child(2) .skills-content .progress:nth-child(1) .bar span {
     width: 85%;
+    /* web design */
 }
 
 .skills-column:nth-child(2) .skills-content .progress:nth-child(2) .bar span {
     width: 67%;
+    /* web dev */
 }
 
 .skills-column:nth-child(2) .skills-content .progress:nth-child(3) .bar span {
     width: 70%;
+    /* api dev */
 }
 
 .skills-column:nth-child(2) .skills-content .progress:nth-child(4) .bar span {
     width: 60%;
+    /* seo marketing */
+}
+
+.skills-column:nth-child(2) .skills-content .progress:nth-child(5) .bar span {
+    width: 25%;
+    /* backend dev*/
 }
 
 
